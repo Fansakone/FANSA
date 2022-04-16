@@ -4,12 +4,16 @@ You can visit [my YouTube Channel](https://cutt.ly/VScY1pS) where I share my bes
 
 Follow me on [LinkedIn](https://www.linkedin.com/feed/).
 
-### Research Interest
+# Research Interest
 
 I'm broadly interested in topics related to **macroeconomics** in _particular_ public finance, international trade, monetary policy and climate chance finance
 
-# Skills
+## Skills
 I have good skills in quantitative analysis, applied econometrics and machine learning!
+
+## programming skills
+My favorite programming language is `python`. But I also work with Stata, Matlab. I have good skills in Excell, word and powerpoint. 
+
 
 # Teachings
 ## courses taught 
@@ -24,9 +28,6 @@ I have good skills in quantitative analysis, applied econometrics and machine le
 - International Finance (Fall 2020)
 - International Trade (Fall 2020)
 
-
-# programming skills
-My favorite programming language is `python`. But I also work with Stata, Matlab. I have good skills in Excell, word and powerpoint. 
 
 
 
