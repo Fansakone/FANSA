@@ -30,8 +30,12 @@ I like teaching, and during my PhD I learn and get a lot of experience from teac
 - International Finance (Fall 2020)
 - International Trade (Fall 2020)
 
+# Talks and presentations
+International Conference of Applied Statistics and Economics (CISEA, ENSEA summer 2019)
+Sharing my PhD experience with ENSEA Students (winter 2021)
 
-
+# hobbies
+Reading personal developement books, Soccer, badminton
 
 ![Image](src)
 
