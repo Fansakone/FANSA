@@ -6,7 +6,7 @@ follow me on [LinkedIn](https://www.linkedin.com/feed/).
 
 ### Research Interest
 
-I'm broadly interested topics related to **macroeconomics** in _particular_ public finance, international trade, monetary policy and climate chance finance
+I'm broadly interested in topics related to **macroeconomics** in _particular_ public finance, international trade, monetary policy and climate chance finance
 
 
 # Teachings
