@@ -8,12 +8,11 @@ follow me on [LinkedIn](https://www.linkedin.com/feed/).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-```
+
 # Teachings
+## courses taught 
 ## Teaching assistant
-### Header 3
+
 
 - Bulleted
 - List
