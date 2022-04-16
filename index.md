@@ -11,11 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Teachings
 ## courses taught 
+- Initiation to economics (Fall 2021)
 ## Teaching assistant
 
-
-- Bulleted
-- List
+- Macroeconomics, PhD level (Winter 2022) 
+- Principal of economics (Winter 2022)
+- Economics data analysis (Fall 2021)
+- Introduction to macroeconomics (Winter 2021, Fall 2020)
+- International Finance (Fall 2020)
 
 1. Numbered
 2. List
