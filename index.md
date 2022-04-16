@@ -32,6 +32,7 @@ I like teaching, and during my PhD I learn and get a lot of experience from teac
 
 # Talks and presentations
 International Conference of Applied Statistics and Economics (CISEA, ENSEA summer 2019)
+
 Sharing my PhD experience with ENSEA Students (winter 2021)
 
 # hobbies
