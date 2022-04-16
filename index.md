@@ -16,8 +16,8 @@ I'm broadly interested in topics related to **macroeconomics** in _particular_ p
 
 - Macroeconomics, PhD level (Winter 2022) 
 - Principal of economics (Winter 2022)
-- Economics data analysis (Fall 2021)
 - Introduction to macroeconomics (Winter 2021, Fall 2020)
+- Economics data analysis (Fall 2021)
 - North American Economics (winter 2021)
 - International Finance (Fall 2020)
 - International Trade (Fall 2020)
