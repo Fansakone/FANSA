@@ -1,2 +1,2 @@
-# Fansa Koné
+# Fansa K.
 Macroeconomist
