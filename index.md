@@ -8,16 +8,18 @@ Follow me on [LinkedIn](https://www.linkedin.com/feed/).
 
 I'm broadly interested in topics related to **macroeconomics** in _particular_ public finance, international trade, monetary policy and climate chance finance
 
-## Skills
+## Research Skills
 I have good skills in quantitative analysis, applied econometrics and machine learning!
 
-## programming skills
+## Programming skills
 My favorite programming language is `python`. But I also work with Stata, Matlab. I have good skills in Excell, word and powerpoint. 
 
 
 # Teachings
 ## courses taught 
 - Initiation to economics (Fall 2021)
+
+
 ## Teaching assistant
 
 - Macroeconomics, PhD level (Winter 2022) 
