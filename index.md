@@ -17,7 +17,7 @@ My favorite programming language is `python`. But I also work with Stata, Matlab
 
 # Teachings
 I like teaching, and during my PhD I learn and get a lot of experience from teaching!
-## courses taught 
+## Courses taught 
 - Initiation to economics (Fall 2021)
 
 ## Teaching assistant
