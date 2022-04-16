@@ -1,2 +1,2 @@
-# web
-My first web page
+# Fansa Koné
+Macroeconomist
