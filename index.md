@@ -20,12 +20,12 @@ I'm broadly interested in topics related to **macroeconomics** in _particular_ p
 - Introduction to macroeconomics (Winter 2021, Fall 2020)
 - International Finance (Fall 2020)
 
-1. Numbered
-2. List
+# programming skills
+My favorite programming language is `python`. But I also work with Stata, Matlab. I have good skills in Excell, word and powerpoint. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+![Image](src)
 
 
 
